@@ -1,1 +1,1 @@
-# games-recc
+# games-recomendations
